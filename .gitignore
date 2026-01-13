@@ -1,0 +1,6 @@
+```
+docs/
+target/
+*.class
+*.log
+.DS_Store
